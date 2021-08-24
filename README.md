@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HeinHtet-Soe
+- 👋 Hi, I’m Hein Htet Soe
 - 👀 I’m interested in Web Development
 
 
