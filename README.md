@@ -1,6 +1,6 @@
 ![I love code.](https://github.com/HeinHtet-Soe/HeinHtet-Soe/blob/main/undraw_Code_thinking_re_gka2.png)
 <h1 align="center">Hi 👋, I'm Hein Htet Soe</h1>
-<h3 align="center">A passionate web developer from Myanmar</h3>
+<h3 align="center">A passionate PHP web developer from Myanmar</h3>
 
 - 🌱 I’m currently learning **some Frameworks and Libraries**
 
